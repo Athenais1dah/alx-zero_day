@@ -1,0 +1,12 @@
+git clone
+git config --global user.email "email"
+git config --global user.name "name"
+git add .
+git commit -m 'description'
+git checkout name
+git pull
+git merge 
+git push
+git commit --amend -m 'description'
+git branch -a
+git branch -d
